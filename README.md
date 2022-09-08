@@ -17,17 +17,28 @@
 
           <header>
             <h1><img src="logo.png"></h1>
-
+          
+	   <nav>
+	  
             <ul>
-              <li> Home </li>
-              <li> Produtos </li>
-              <li> Contato </li>
-
+              <li><a href-"index.html"> Home </a></li>
+              <li><a href-"index.html"> Produtos </a></li>
+              <li><a href-"index.html"> Contato </a></li>
             </ul>
-          </header>
+	    
+	   </nav> 
+	  
+        </header>
 
 	</body>
 
 </html>
 
 # Produtos.css 
+
+header {
+    background:#BBBBBB;
+    }
+    
+nav li {
+	    
