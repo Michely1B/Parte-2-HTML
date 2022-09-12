@@ -101,6 +101,7 @@ nav a {
 nav a:hover {
     color: #C78C19;
     text-decoration: underline;
+    cursor: pointer;
 }
 
 
@@ -125,6 +126,7 @@ nav a:hover {
 
 .produtos li:hover {
    border-color: #C78C19; 
+   cursor: pointer;
 }
 
 .produtos li:active {
